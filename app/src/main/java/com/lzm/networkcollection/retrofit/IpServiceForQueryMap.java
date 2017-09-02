@@ -1,7 +1,5 @@
 package com.lzm.networkcollection.retrofit;
 
-import com.example.liuwangshu.moonretrofit.model.IpModel;
-
 import java.util.Map;
 
 import retrofit2.Call;

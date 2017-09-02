@@ -1,11 +1,8 @@
 package com.lzm.networkcollection.retrofit;
 
-import com.example.liuwangshu.moonretrofit.model.Ip;
-import com.example.liuwangshu.moonretrofit.model.IpModel;
 
 import retrofit2.Call;
 import retrofit2.http.Body;
-import retrofit2.http.Field;
 import retrofit2.http.POST;
 
 /**
